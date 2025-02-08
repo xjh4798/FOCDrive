@@ -16,6 +16,9 @@
         <mxCell id="7idneSWE3G47reS1xaLq-3" value="FOC算法实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7idneSWE3G47reS1xaLq-4" value="FreeRTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
