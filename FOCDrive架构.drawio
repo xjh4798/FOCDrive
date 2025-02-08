@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7F3su67hpWIr7ZEjKbrC-1" value="硬件级别映射" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7idneSWE3G47reS1xaLq-1" value="通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -16,8 +13,14 @@
         <mxCell id="7idneSWE3G47reS1xaLq-3" value="FOC算法实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-4" value="FreeRTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="7idneSWE3G47reS1xaLq-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7F3su67hpWIr7ZEjKbrC-1" value="硬件级别映射" style="rounded=0;whiteSpace=wrap;html=1;" parent="7idneSWE3G47reS1xaLq-5" vertex="1">
+          <mxGeometry x="75" width="75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7idneSWE3G47reS1xaLq-4" value="FreeRTOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7idneSWE3G47reS1xaLq-5">
+          <mxGeometry width="75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
