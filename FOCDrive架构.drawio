@@ -55,8 +55,14 @@
         <mxCell id="F0WUHosokgH1Jt52Bobb-4" value="板级初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1610" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F0WUHosokgH1Jt52Bobb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0WUHosokgH1Jt52Bobb-5" target="F0WUHosokgH1Jt52Bobb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F0WUHosokgH1Jt52Bobb-5" value="NVM加载配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1610" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F0WUHosokgH1Jt52Bobb-7" value="板级外设初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
