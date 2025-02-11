@@ -4,26 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BNqlOPU7mWvOLJDjoSkw-2" value="固件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fillColor=none;fontStyle=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="300" y="420" width="590" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="BNqlOPU7mWvOLJDjoSkw-1" value="RPC通信工具 Dll提供" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="340" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BNqlOPU7mWvOLJDjoSkw-3" value="" style="group;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="300" y="420" width="590" height="220" as="geometry" />
+        <mxCell id="BNqlOPU7mWvOLJDjoSkw-4" value="自动化测试与报告工具" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-1" value="RPC通信" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" vertex="1">
-          <mxGeometry x="270" y="20" width="290" height="60" as="geometry" />
+        <mxCell id="7idneSWE3G47reS1xaLq-1" value="RPC通信" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="570" y="440" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" source="7idneSWE3G47reS1xaLq-2" target="7idneSWE3G47reS1xaLq-3" edge="1">
+        <mxCell id="7idneSWE3G47reS1xaLq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" source="7idneSWE3G47reS1xaLq-2" target="7idneSWE3G47reS1xaLq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-2" value="中继&lt;span style=&quot;background-color: initial;&quot;&gt;驱动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" vertex="1">
-          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="7idneSWE3G47reS1xaLq-2" value="中继&lt;span style=&quot;background-color: initial;&quot;&gt;驱动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="570" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-3" value="FOC算法实现" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" vertex="1">
-          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="7idneSWE3G47reS1xaLq-3" value="FOC算法实现" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="740" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-5" value="" style="group;labelBackgroundColor=none;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" vertex="1" connectable="0">
-          <mxGeometry x="10" y="110" width="210" height="60" as="geometry" />
+        <mxCell id="7idneSWE3G47reS1xaLq-5" value="" style="group;labelBackgroundColor=none;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="310" y="530" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7F3su67hpWIr7ZEjKbrC-1" value="硬件级别映射" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="7idneSWE3G47reS1xaLq-5" vertex="1">
           <mxGeometry x="105" width="105" height="60" as="geometry" />
@@ -31,17 +34,8 @@
         <mxCell id="7idneSWE3G47reS1xaLq-4" value="FreeRTOS&lt;div&gt;HAL&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="7idneSWE3G47reS1xaLq-5" vertex="1">
           <mxGeometry width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" source="7F3su67hpWIr7ZEjKbrC-1" target="7idneSWE3G47reS1xaLq-2" edge="1">
+        <mxCell id="7idneSWE3G47reS1xaLq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" source="7F3su67hpWIr7ZEjKbrC-1" target="7idneSWE3G47reS1xaLq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7idneSWE3G47reS1xaLq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="BNqlOPU7mWvOLJDjoSkw-3" source="7F3su67hpWIr7ZEjKbrC-1" target="7idneSWE3G47reS1xaLq-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BNqlOPU7mWvOLJDjoSkw-2" value="固件" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fillColor=none;fontStyle=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=0;fontSize=19;" parent="BNqlOPU7mWvOLJDjoSkw-3" vertex="1">
-          <mxGeometry width="590" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="BNqlOPU7mWvOLJDjoSkw-4" value="自动化测试与报告工具" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
