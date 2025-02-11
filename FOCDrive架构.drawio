@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BNqlOPU7mWvOLJDjoSkw-1" value="RPC通信工具" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="BNqlOPU7mWvOLJDjoSkw-1" value="RPC通信工具 Dll提供" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="340" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNqlOPU7mWvOLJDjoSkw-3" value="" style="group;" parent="1" vertex="1" connectable="0">
