@@ -19,6 +19,9 @@
         <mxCell id="7idneSWE3G47reS1xaLq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" source="7idneSWE3G47reS1xaLq-2" target="7idneSWE3G47reS1xaLq-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F0WUHosokgH1Jt52Bobb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7idneSWE3G47reS1xaLq-2" target="7idneSWE3G47reS1xaLq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7idneSWE3G47reS1xaLq-2" value="中继&lt;span style=&quot;background-color: initial;&quot;&gt;驱动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="570" y="530" width="120" height="60" as="geometry" />
         </mxCell>
@@ -35,6 +38,9 @@
           <mxGeometry width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7idneSWE3G47reS1xaLq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" source="7F3su67hpWIr7ZEjKbrC-1" target="7idneSWE3G47reS1xaLq-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7idneSWE3G47reS1xaLq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" source="7F3su67hpWIr7ZEjKbrC-1" target="7idneSWE3G47reS1xaLq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
