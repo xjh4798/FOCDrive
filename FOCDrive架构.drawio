@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="340" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BNqlOPU7mWvOLJDjoSkw-4" value="自动化测试与报告工具" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="250" height="60" as="geometry" />
+          <mxGeometry x="610" y="340" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7idneSWE3G47reS1xaLq-1" value="RPC通信" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=light-dark(#E4FDE1, #ffffff);fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="550" y="440" width="330" height="60" as="geometry" />
