@@ -73,14 +73,14 @@
         <mxCell id="F0WUHosokgH1Jt52Bobb-9" value="GPIO配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1610" y="433" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F0WUHosokgH1Jt52Bobb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F0WUHosokgH1Jt52Bobb-11" target="F0WUHosokgH1Jt52Bobb-13">
+        <mxCell id="F0WUHosokgH1Jt52Bobb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F0WUHosokgH1Jt52Bobb-11" target="F0WUHosokgH1Jt52Bobb-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F0WUHosokgH1Jt52Bobb-11" value="USB二进制信号量&lt;div&gt;uart事件队列&lt;/div&gt;&lt;div&gt;usb事件队列&lt;/div&gt;&lt;div&gt;can二进制信号量&lt;/div&gt;&lt;div&gt;等创建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1610" y="510" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="F0WUHosokgH1Jt52Bobb-13" value="RTOS开启主任务&lt;div&gt;启动调度器&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="1860" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
