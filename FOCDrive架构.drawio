@@ -139,6 +139,15 @@
         <mxCell id="3kmo7YIdoAM12e9ZociS-21" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ControlLoop_IRQn&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="3kmo7YIdoAM12e9ZociS-22">
           <mxGeometry width="174" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3kmo7YIdoAM12e9ZociS-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2401" y="378" width="408" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kmo7YIdoAM12e9ZociS-26" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; text-align: left; white-space: pre;&quot;&gt;ControlLoop_IRQHandler&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3kmo7YIdoAM12e9ZociS-25">
+          <mxGeometry x="174" width="234" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kmo7YIdoAM12e9ZociS-27" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ControlLoop_IRQn&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="3kmo7YIdoAM12e9ZociS-25">
+          <mxGeometry width="174" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
