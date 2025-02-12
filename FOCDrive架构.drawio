@@ -154,6 +154,9 @@
         <mxCell id="3kmo7YIdoAM12e9ZociS-30" value="调用软件触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2677" y="484" width="90" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="3kmo7YIdoAM12e9ZociS-31" value="TIM8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2345" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
