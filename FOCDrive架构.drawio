@@ -233,16 +233,16 @@
           <mxGeometry x="280" y="1593" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-48" value="&lt;div style=&quot;color: #dadada;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20.8px;line-height: 28px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;TGateDriver&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.9976326976101" y="1764" width="154" height="50" as="geometry" />
+          <mxGeometry x="525.9976326976101" y="1789" width="154" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-49" value="&lt;div style=&quot;color: #dadada;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20.8px;line-height: 28px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;TOpAmp&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.9976326976101" y="1712.99767578125" width="97" height="50" as="geometry" />
+          <mxGeometry x="525.9976326976101" y="1743.99767578125" width="97" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-50" value="&lt;div style=&quot;color: #dadada;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20.8px;line-height: 28px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;OnboardThermistorCurrentLimiter&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.9976326976101" y="1814" width="395" height="50" as="geometry" />
+          <mxGeometry x="525.9976326976101" y="1833" width="395" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-51" value="&lt;div style=&quot;color: #dadada;background-color: #1e1e1e;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 20.8px;line-height: 28px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0;&quot;&gt;OffboardThermistorCurrentLimiter&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.9976326976101" y="1865.0041463694852" width="394" height="50" as="geometry" />
+          <mxGeometry x="525.9976326976101" y="1898.0041463694852" width="394" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
