@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="8biO5ifVdaOKBa2SmJb8">
-    <mxGraphModel dx="568" dy="286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="457" dy="230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,35 +91,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-1" value="TIM1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2581" y="52" width="120" height="60" as="geometry" />
+          <mxGeometry x="2573" y="91" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kmo7YIdoAM12e9ZociS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=0;endArrow=none;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;" edge="1" parent="1" source="3kmo7YIdoAM12e9ZociS-2">
+        <mxCell id="3kmo7YIdoAM12e9ZociS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=0;endArrow=none;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;" edge="1" parent="1" source="3kmo7YIdoAM12e9ZociS-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2823.8918918918916" y="148.1621687605574" as="targetPoint" />
+            <mxPoint x="2846" y="27" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3kmo7YIdoAM12e9ZociS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;" edge="1" parent="1" source="3kmo7YIdoAM12e9ZociS-2">
+        <mxCell id="3kmo7YIdoAM12e9ZociS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3kmo7YIdoAM12e9ZociS-2" target="3kmo7YIdoAM12e9ZociS-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2963.6756294869087" y="82.10810810810807" as="targetPoint" />
+            <mxPoint x="2955.6756294869087" y="121.10810810810807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-2" value="ADC1 channel6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2794" y="52" width="120" height="60" as="geometry" />
+          <mxGeometry x="2786" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-4" value="&lt;p style=&quot;color: light-dark(rgb(218, 218, 218), rgb(50, 50, 50)); background-color: light-dark(rgb(30, 30, 30), rgb(211, 211, 211)); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; line-height: 24px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;color: rgb(190, 183, 255);&quot;&gt;TRGO&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2719.5" y="21" width="57" height="71" as="geometry" />
+          <mxGeometry x="2711.5" y="60" width="57" height="71" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-5" value="注入转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2715" y="89" width="66" height="26" as="geometry" />
+          <mxGeometry x="2707" y="128" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-7" value="软件中断触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2778" y="151" width="90" height="26" as="geometry" />
+          <mxGeometry x="2854" y="25" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-10" value="DMA2 stream0&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2965" y="52" width="120" height="60" as="geometry" />
+          <mxGeometry x="3002" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-11" value="常规转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2841" y="120" width="66" height="26" as="geometry" />
+          <mxGeometry x="2866" y="48" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3kmo7YIdoAM12e9ZociS-12" value="DMA数据传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2906" y="87" width="93" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
