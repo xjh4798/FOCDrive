@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="8biO5ifVdaOKBa2SmJb8">
-    <mxGraphModel dx="457" dy="230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="656" dy="331" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,14 +112,14 @@
         <mxCell id="3kmo7YIdoAM12e9ZociS-5" value="注入转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2707" y="128" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3kmo7YIdoAM12e9ZociS-7" value="软件中断触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2854" y="25" width="90" height="26" as="geometry" />
+        <mxCell id="3kmo7YIdoAM12e9ZociS-7" value="软件中断触发&amp;nbsp;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.4px; white-space-collapse: preserve;&quot;&gt;HAL_ADC_Start_DMA&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.4px; white-space-collapse: preserve;&quot;&gt;&lt;font&gt;()&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2853" y="22" width="254" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-10" value="DMA2 stream0&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3002" y="91" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-11" value="常规转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2866" y="48" width="66" height="26" as="geometry" />
+          <mxGeometry x="2853" y="46" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-12" value="DMA数据传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2906" y="87" width="93" height="26" as="geometry" />
