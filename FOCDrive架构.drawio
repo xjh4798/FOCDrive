@@ -221,7 +221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-44" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20.8px; line-height: 28px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;Motor&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1784" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1809" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kmo7YIdoAM12e9ZociS-45" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 20.8px; line-height: 28px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;Endstop&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="1498" width="120" height="60" as="geometry" />
