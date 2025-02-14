@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-1475" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-1596" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-38" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;阅&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fBpoeWpFDzhCI_No8cf7-28">
           <mxGeometry x="0.096" y="-5" relative="1" as="geometry">
-            <mxPoint x="16" y="16" as="offset" />
+            <mxPoint x="-5" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-31" value="TIM3/4编码器模式&lt;div&gt;位置速度角度信息等采集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
