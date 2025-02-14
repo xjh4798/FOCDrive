@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1273" dy="2043" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1544" dy="2178" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -55,7 +55,7 @@
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fBpoeWpFDzhCI_No8cf7-27" target="xTuEtZoCW5tBsWcaGFDS-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-27" value="O&lt;div&gt;O&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&amp;nbsp;对&lt;/div&gt;&lt;div&gt;&amp;nbsp;象&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=30;" parent="1" vertex="1">
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-27" value="O&lt;div&gt;O&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&amp;nbsp;对&lt;/div&gt;&lt;div&gt;&amp;nbsp;象&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=default;strokeColor=#006EAF;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="2407" y="-371" width="82" height="223" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fBpoeWpFDzhCI_No8cf7-31" target="fBpoeWpFDzhCI_No8cf7-27" edge="1">
@@ -78,7 +78,7 @@
         <mxCell id="fBpoeWpFDzhCI_No8cf7-34" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1683.3600000000001" y="233" width="31" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-10" value="FOC核心算法维护输出PWM" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-10" value="FOC核心算法维护输出PWM" style="whiteSpace=wrap;html=1;fontSize=26;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=default;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2555" y="-350" width="115" height="181" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-13" value="调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
