@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-1125" dy="921" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-1323" dy="803" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="3109" y="486" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-24" value="计时器溢出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2828" y="680" width="78" height="26" as="geometry" />
+          <mxGeometry x="2790" y="473" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-25" value="TIM1/8维护的FOC执行时序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2362" y="721" width="312" height="42" as="geometry" />
@@ -104,6 +104,14 @@
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-19" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; line-height: 24px; white-space: pre;&quot;&gt;&lt;span style=&quot;&quot;&gt;TIM8_UP_TIM13_IRQn&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=default;container=0;" parent="fBpoeWpFDzhCI_No8cf7-17" vertex="1">
           <mxGeometry width="174.85294117647058" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="xTuEtZoCW5tBsWcaGFDS-18" source="fBpoeWpFDzhCI_No8cf7-23" target="fBpoeWpFDzhCI_No8cf7-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="-34" />
+              <mxPoint x="206" y="-34" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-23" value="TIM8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#2D7600;fontStyle=1;fontSize=21;" parent="xTuEtZoCW5tBsWcaGFDS-18" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
