@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-1650" dy="608" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-1087" dy="943" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -236,14 +236,26 @@
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3087" y="886" width="120" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="xTuEtZoCW5tBsWcaGFDS-79">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-61" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2702" y="856" width="92" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-53" value="ADC采集转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-61">
+          <mxGeometry width="92" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xTuEtZoCW5tBsWcaGFDS-61" target="xTuEtZoCW5tBsWcaGFDS-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3099" y="874" as="sourcePoint" />
+            <mxPoint x="3" y="20" as="sourcePoint" />
+            <mxPoint x="12" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3067" y="878" as="sourcePoint" />
             <mxPoint x="3067" y="862" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-73" value="ADC采集转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3097" y="854" width="92" height="27" as="geometry" />
+          <mxGeometry x="3066" y="858" width="92" height="27" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-75" value="读取ADC采集&lt;div&gt;转换后数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3090" y="904" width="92" height="42" as="geometry" />
@@ -255,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-77" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2721" y="841" width="361.5" height="21" as="geometry" />
+          <mxGeometry x="2705" y="841" width="361.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-77">
           <mxGeometry width="120" height="21" as="geometry" />
@@ -266,25 +278,16 @@
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-77">
           <mxGeometry x="241.5" width="120" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-53" value="ADC采集转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2719" y="856" width="92" height="27" as="geometry" />
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3066" y="840" width="361.5" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.023;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.022;exitY=0.741;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xTuEtZoCW5tBsWcaGFDS-53" target="xTuEtZoCW5tBsWcaGFDS-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2722" y="876" as="sourcePoint" />
-            <mxPoint x="2731" y="874" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3099" y="839" width="361.5" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-78">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-82">
           <mxGeometry width="120" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-78">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-82">
           <mxGeometry x="121" width="120" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-78">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xTuEtZoCW5tBsWcaGFDS-82">
           <mxGeometry x="241.5" width="120" height="21" as="geometry" />
         </mxCell>
       </root>
