@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="100" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-500" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-2" value="是否保留常规转换这个东西？？？？" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="3075" y="58" width="465" height="212" as="geometry" />
+          <mxGeometry x="2696.5" y="58" width="465" height="212" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;shape=flexArrow;" parent="1" source="fBpoeWpFDzhCI_No8cf7-2" target="fBpoeWpFDzhCI_No8cf7-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -15,43 +15,43 @@
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=0;endArrow=none;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;" parent="1" source="fBpoeWpFDzhCI_No8cf7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3112" y="114" as="targetPoint" />
+            <mxPoint x="2733.5" y="114" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shape=flexArrow;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fBpoeWpFDzhCI_No8cf7-6" target="fBpoeWpFDzhCI_No8cf7-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3221.6756294869087" y="228.10810810810807" as="targetPoint" />
+            <mxPoint x="2843.1756294869087" y="228.10810810810807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;shape=flexArrow;" parent="1" source="fBpoeWpFDzhCI_No8cf7-6" target="fBpoeWpFDzhCI_No8cf7-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-6" value="ADC1 channel6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
-          <mxGeometry x="3052" y="198" width="120" height="60" as="geometry" />
+          <mxGeometry x="2673.5" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-7" value="&lt;p style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; line-height: 24px; white-space-collapse: preserve;&quot;&gt;&lt;span style=&quot;&quot;&gt;TRGO触发&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2953" y="161" width="92" height="71" as="geometry" />
+          <mxGeometry x="2574.5" y="161" width="92" height="71" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-8" value="注入转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2973" y="235" width="66" height="26" as="geometry" />
+          <mxGeometry x="2594.5" y="235" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-9" value="软件中断触发&amp;nbsp;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.4px; white-space-collapse: preserve;&quot;&gt;HAL_ADC_Start_DMA&lt;/span&gt;&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15.4px; white-space-collapse: preserve;&quot;&gt;&lt;font&gt;()&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="3119" y="129" width="254" height="30" as="geometry" />
+          <mxGeometry x="2740.5" y="129" width="254" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-10" value="DMA2 stream0&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3285" y="198" width="120" height="60" as="geometry" />
+          <mxGeometry x="2906.5" y="198" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-11" value="常规转换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3119" y="153" width="66" height="26" as="geometry" />
+          <mxGeometry x="2740.5" y="153" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-12" value="DMA数据传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3172" y="194" width="93" height="26" as="geometry" />
+          <mxGeometry x="2793.5" y="194" width="93" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-13" value="手动读取数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3111" y="310" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-14" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2665" y="377" width="408" height="60" as="geometry" />
+          <mxGeometry x="3250" y="387" width="408" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-15" value="&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 17.6px; text-align: left; white-space: pre;&quot;&gt;ControlLoop_IRQHandler&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="fBpoeWpFDzhCI_No8cf7-14" vertex="1">
           <mxGeometry x="174" width="234" height="60" as="geometry" />
@@ -84,18 +84,18 @@
           <mxGeometry x="2746" y="630" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-25" value="FOC算法执行主要设计时序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2358" y="58" width="309" height="41" as="geometry" />
+          <mxGeometry x="2365" y="-70" width="309" height="41" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-26" value="总线电压数据&lt;div&gt;三相电流数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3165" y="346" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-27" value="各&amp;nbsp; OOP 对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="2543" y="-189" width="553" height="60" as="geometry" />
+          <mxGeometry x="2543" y="-350" width="553" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;endWidth=74.24;endSize=23.368000000000002;width=75.2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fontSize=17;" parent="1" target="fBpoeWpFDzhCI_No8cf7-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2820" y="64" as="sourcePoint" />
-            <mxPoint x="3678" y="469" as="targetPoint" />
+            <mxPoint x="2820" y="-97" as="sourcePoint" />
+            <mxPoint x="3678" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-38" value="数&lt;div&gt;据&lt;/div&gt;&lt;div&gt;订&lt;/div&gt;&lt;div&gt;阅&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" parent="fBpoeWpFDzhCI_No8cf7-28" vertex="1" connectable="0">
