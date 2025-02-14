@@ -322,6 +322,9 @@
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-9" value="通信交互&lt;div&gt;安全保护等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2218.5" y="377" width="78" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-10" value="CPU占用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="496" width="67" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
