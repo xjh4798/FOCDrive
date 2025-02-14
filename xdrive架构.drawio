@@ -200,10 +200,10 @@
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-42" value="6T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3137" y="761" width="47" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-43" value="TIM1从t计数,0&amp;lt;t&amp;lt;T/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-43" value="TIM8从t计数,0&amp;lt;t&amp;lt;T/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2204" y="838" width="130" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-44" value="TIM8从0开启计数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-44" value="TIM1从0开启计数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2218" y="881" width="113" height="27" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-45" value="TIM8/TIM1 1分频 即168Mhz&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2T为其中心对齐模式三的PWM周期&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;且中断重复次数为2，&lt;/div&gt;&lt;div&gt;因此每计数到3T产生一次事件or中断&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
