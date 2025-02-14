@@ -1,20 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="625" dy="1963" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-1276" dy="431" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;endWidth=74.24;endSize=23.368000000000002;width=75.2;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;textDirection=vertical-lr;fontSize=17;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" target="fBpoeWpFDzhCI_No8cf7-27" edge="1" source="fBpoeWpFDzhCI_No8cf7-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2820" y="-97" as="sourcePoint" />
-            <mxPoint x="3678" y="308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-38" value="O&lt;div&gt;O&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;对&lt;/div&gt;&lt;div&gt;象&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;维&lt;/div&gt;&lt;div&gt;护&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=28;" parent="fBpoeWpFDzhCI_No8cf7-28" vertex="1" connectable="0">
-          <mxGeometry x="0.096" y="-5" relative="1" as="geometry">
-            <mxPoint x="-7" y="-126" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-2" value="是否保留常规转换这个东西？？？？" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="2696.5" y="58" width="465" height="212" as="geometry" />
         </mxCell>
@@ -100,8 +89,11 @@
         <mxCell id="fBpoeWpFDzhCI_No8cf7-25" value="FOC算法执行主要设计时序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2228" y="62" width="309" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-27" value="各&amp;nbsp; OOP 对象" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="3171" y="-285" width="375" height="222" as="geometry" />
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fBpoeWpFDzhCI_No8cf7-27" target="xTuEtZoCW5tBsWcaGFDS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-27" value="O&lt;div&gt;O&lt;/div&gt;&lt;div&gt;P&lt;/div&gt;&lt;div&gt;&amp;nbsp;对&lt;/div&gt;&lt;div&gt;&amp;nbsp;象&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=30;" parent="1" vertex="1">
+          <mxGeometry x="3511" y="442" width="82" height="223" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-31" value="TIM3/4编码器模式&lt;div&gt;位置速度角度信息等采集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3198" y="649" width="227" height="60" as="geometry" />
@@ -128,6 +120,12 @@
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-35" value="时序设定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2396" y="813" width="98" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-10" value="FOC核心算法维护输出PWM" style="whiteSpace=wrap;html=1;fontSize=30;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3647" y="444" width="113" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-13" value="调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3596" y="519" width="43" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
