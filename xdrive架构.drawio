@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-1087" dy="943" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-1222" dy="863" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -104,9 +104,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-31" value="TIM3/4编码器模式&lt;div&gt;位置速度角度信息等采集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3430" y="540" width="148" height="60" as="geometry" />
+          <mxGeometry x="3198" y="649" width="227" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="1" source="fBpoeWpFDzhCI_No8cf7-18" target="fBpoeWpFDzhCI_No8cf7-31" edge="1">
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="1" source="fBpoeWpFDzhCI_No8cf7-18" target="fBpoeWpFDzhCI_No8cf7-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3139.588264016544" y="580.2941176470588" as="targetPoint" />
           </mxGeometry>
