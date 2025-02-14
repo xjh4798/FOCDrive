@@ -47,8 +47,8 @@
         <mxCell id="fBpoeWpFDzhCI_No8cf7-12" value="DMA数据传输" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2793.5" y="194" width="93" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-13" value="手动读取数据,包括总线电压、&lt;div&gt;三相电流等数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3074" y="330.5" width="180" height="40" as="geometry" />
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-13" value="手动读取数据,包括总线电压、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;三相电流等数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3020" y="340" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBpoeWpFDzhCI_No8cf7-14" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2960" y="380" width="408" height="60" as="geometry" />
