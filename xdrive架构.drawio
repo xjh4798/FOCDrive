@@ -83,8 +83,8 @@
         <mxCell id="fBpoeWpFDzhCI_No8cf7-25" value="FOC算法执行主要设计时序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2358" y="58" width="309" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="fBpoeWpFDzhCI_No8cf7-26" value="总线电压数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3165" y="353" width="90" height="26" as="geometry" />
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-26" value="总线电压数据&lt;div&gt;三相电流数据&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3165" y="346" width="90" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
