@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-1000" dy="909" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="-819" dy="997" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-93" value="&lt;div&gt;OOP数据维护&lt;/div&gt;&lt;div&gt;通信交互&lt;/div&gt;FOC核心算法执行以定期快速维护输出PWM&lt;div&gt;时间段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=default;strokeColor=#2D7600;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2136" y="291" width="226.36" height="113" as="geometry" />
+          <mxGeometry x="2137" y="291" width="201" height="113" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-2" value="是否保留常规转换这个东西？？？？" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1806" y="-694" width="299" height="118" as="geometry" />
@@ -306,6 +306,12 @@
             <mxPoint x="2034.3600000000001" y="346" as="sourcePoint" />
             <mxPoint x="2043.3600000000001" y="344" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-3" value="事件触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1972" y="329" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-4" value="事件触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2329.36" y="330" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
