@@ -337,6 +337,9 @@
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-14" value="中断处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2350.36" y="377" width="66" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-15" value="continue............" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="2577" y="408" width="139" height="32" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
