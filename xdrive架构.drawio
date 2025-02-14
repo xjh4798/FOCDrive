@@ -180,7 +180,7 @@
           <mxGeometry x="2343" y="832" width="21" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2484" y="833" width="120" height="21" as="geometry" />
+          <mxGeometry x="2364" y="869" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2605" y="832" width="120" height="21" as="geometry" />
@@ -200,8 +200,11 @@
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-42" value="6T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="3137" y="761" width="47" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-43" value="TIM1从时刻t启动,0&amp;lt;t&amp;lt;T/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2181" y="828" width="154" height="27" as="geometry" />
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-43" value="TIM1从t计数,0&amp;lt;t&amp;lt;T/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2193" y="828" width="130" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-44" value="TIM8从0开启计数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2187" y="870" width="113" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
