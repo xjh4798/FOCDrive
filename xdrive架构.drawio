@@ -334,6 +334,9 @@
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-12" value="通信交互&lt;div&gt;安全保护等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1828" y="410" width="78" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-14" value="中断处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2350.36" y="377" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
