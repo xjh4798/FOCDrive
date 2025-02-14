@@ -123,6 +123,9 @@
         <mxCell id="fBpoeWpFDzhCI_No8cf7-34" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2334" y="813" width="31" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="fBpoeWpFDzhCI_No8cf7-35" value="时序设定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2396" y="813" width="98" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
