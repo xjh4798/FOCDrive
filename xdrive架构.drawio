@@ -189,7 +189,7 @@
           <mxGeometry x="2701" y="763" width="47" height="42" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2726" y="830" width="120" height="21" as="geometry" />
+          <mxGeometry x="2705" y="841" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-40" value="4T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2829" y="767" width="47" height="42" as="geometry" />
@@ -208,6 +208,18 @@
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-45" value="TIM8/TIM1 1分频 即168Mhz&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2T为其中心对齐模式三的PWM周期&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;且中断重复次数为2，&lt;/div&gt;&lt;div&gt;因此每计数到3T产生一次事件or中断&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2119" y="695" width="212" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2585" y="841" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2485" y="886" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2605" y="886" width="120" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2725" y="886" width="120" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
