@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.13">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-563" dy="1121" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="85" dy="1435" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-11" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=default;strokeColor=#2D7600;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1693.36" y="291" width="360.64" height="205" as="geometry" />
+        </mxCell>
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="2055" y="292" width="140" height="204" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-93" value="&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=default;strokeColor=#2D7600;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="2197" y="291" width="141" height="205" as="geometry" />
+          <mxGeometry x="2197" y="291" width="220" height="205" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-2" value="是否保留常规转换这个东西？？？？" style="ellipse;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="1806" y="-694" width="299" height="118" as="geometry" />
@@ -181,8 +184,8 @@
             <mxPoint x="1733.3600000000001" y="332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xTuEtZoCW5tBsWcaGFDS-31" value="TIM1/TIM8启动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1679.3600000000001" y="440" width="101" height="27" as="geometry" />
+        <mxCell id="xTuEtZoCW5tBsWcaGFDS-31" value="TIM1/TIM8同步启动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1577.5000000000002" y="421.5" width="124" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xTuEtZoCW5tBsWcaGFDS-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1673.3600000000001" y="311" width="21" height="21" as="geometry" />
@@ -320,10 +323,13 @@
           <mxGeometry x="1980" y="377" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-9" value="通信交互&lt;div&gt;安全保护等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2218.5" y="377" width="78" height="41" as="geometry" />
+          <mxGeometry x="2279" y="410" width="78" height="41" as="geometry" />
         </mxCell>
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-10" value="CPU占用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2165" y="496" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NZKuj_AVEFRoY8g5sJjr-12" value="通信交互&lt;div&gt;安全保护等&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1828" y="410" width="78" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
