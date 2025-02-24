@@ -358,6 +358,9 @@
         <mxCell id="djVkRZMS9W7LjaRDP0MG-2" value="OOP维护" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3169" y="-381" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-4" value="通信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3229" y="-441" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
