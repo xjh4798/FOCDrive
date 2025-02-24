@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="26.0.14">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="-2" dy="1454" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="446" dy="1695" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -349,22 +349,22 @@
         <mxCell id="NZKuj_AVEFRoY8g5sJjr-19" value="CPU占用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2338" y="487" width="67" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="djVkRZMS9W7LjaRDP0MG-1" target="djVkRZMS9W7LjaRDP0MG-2">
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;fontColor=default;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="djVkRZMS9W7LjaRDP0MG-1" target="djVkRZMS9W7LjaRDP0MG-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="djVkRZMS9W7LjaRDP0MG-1" target="djVkRZMS9W7LjaRDP0MG-5">
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;fontColor=default;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" edge="1" parent="1" source="djVkRZMS9W7LjaRDP0MG-1" target="djVkRZMS9W7LjaRDP0MG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-1" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;uc80c7f76&quot;&gt;&lt;span style=&quot;&quot;&gt;板级初始化&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-1" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p style=&quot;margin: 0; padding: 0; min-height: 24px&quot; class=&quot;ne-p&quot; id=&quot;uc80c7f76&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;板级初始化&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;labelBackgroundColor=none;align=center;verticalAlign=middle;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3169" y="-527" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-2" value="通信&amp;amp;oop维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-2" value="通信&amp;amp;oop维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3015" y="-365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-4" value="Freertos接管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3220" y="-455" width="96" height="30" as="geometry" />
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-4" value="Freertos接管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="3220" y="-455" width="134" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="djVkRZMS9W7LjaRDP0MG-5" value="算法&amp;amp;oop维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="djVkRZMS9W7LjaRDP0MG-5" value="算法&amp;amp;oop维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3336" y="-365" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
