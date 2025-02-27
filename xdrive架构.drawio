@@ -367,8 +367,8 @@
         <mxCell id="djVkRZMS9W7LjaRDP0MG-5" value="算法&amp;amp;oop维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=default;strokeColor=#005700;labelBackgroundColor=none;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="3336" y="-365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hOZLOlsSbldbgP5_6xiw-1" value="TIM1 中断 触发读取母线电压、电流，三相电流等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1958" y="582" width="280" height="26" as="geometry" />
+        <mxCell id="hOZLOlsSbldbgP5_6xiw-1" value="TIM1 中断 触发读取母线电压、电流，三相电流等&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TIM8中断 FOC计算，改变PWM输出等&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1958" y="575" width="280" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
